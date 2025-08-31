@@ -1,2 +1,2 @@
 # CS163
-Data Structures in C++
+Data Structures and Algorithms in C++
